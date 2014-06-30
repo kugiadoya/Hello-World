@@ -11,3 +11,5 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+
+https://help.github.com/articles/github-flavored-markdown
